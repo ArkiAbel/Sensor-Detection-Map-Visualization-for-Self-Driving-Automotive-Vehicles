@@ -1,6 +1,8 @@
 
 English below
 
+A fájl jelenleg a munkámat mutatja be, nem a szoftver használatát, mivel futtatáskor az azonnal lefut., a felhasználónak nincsen további feladata vele.
+
 Magyar
 
 ---------- A munkám rövid összefoglalója ----------
@@ -43,6 +45,7 @@ Végül igyekeztem minél átláthatóbbá és rendezettebbé tenni a kódot: k�
 
 English
 
+The file currently demonstrates my work, not how to use the software, since it runs immediately upon execution; the user does not need to do anything else with it.
 
 ---------- Short summary of my work ----------
 
